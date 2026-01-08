@@ -1,4 +1,6 @@
 <div align="center">
+  
+<img src="xautoclicker.png" alt="xAutoClicker AI Preview" width="256"/>
 
 # ⚔️ xAutoClicker AI — PvP Edition
 
