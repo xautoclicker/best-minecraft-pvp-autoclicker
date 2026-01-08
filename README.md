@@ -4,10 +4,10 @@
 
 ### Best Minecraft PVP Autoclicker - Clicking Intelligence for Minecraft PvP
 
-[![Version](https://img.shields.io/badge/version-3.0.0-indigo.svg)]
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue.svg)]
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.8%20–%201.20-green.svg)]
-[![License](https://img.shields.io/badge/license-Proprietary-red.svg)]
+![Version](https://img.shields.io/badge/version-3.0.0-indigo.svg)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue.svg)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.8%20–%201.20-green.svg)
+![License](https://img.shields.io/badge/license-Proprietary-red.svg)
 
 <img src="xautoclicker-preview.png" alt="xAutoClicker AI Preview" width="720"/>
 
